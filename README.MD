@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido durante o curso no qual fui instrutor técnico na plataforma da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido para o bootcamp CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://dio.me)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
@@ -40,15 +40,26 @@ ChatGPT：
 
 |   Ação   | prompt                                                                                                                                                                                                                                                                         |
 | :------: | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-|  título  | Crie um título de um ebook sobre o tema de css, o ebookk é do nicho de programação e o subnicho é de css, o título deve ser épico e curto, e tenha uma temática de star wars no título, me liste 5 variações de títulos                                                        |
-| conteúdo | Faça um texto para ebook , com foco em CSS, listando os principais seletores CSS com exemplos em código {REGRAS} Explique sempre de uma maneira simples Deixe o texto enxuto, Sempre traga exemplos de código em contextos reais , sempre deixe um título sugestivo por tópico |
+|  título  | Crie um título de um ebook sobre o tema de Finanças pessoais, o ebookk é do nicho de superendividados e o subnicho é de superendividados por cartão de crédito e consignado, o título deve ser épico e curto, e tenha uma temática de livros da Jenny Han no título, me liste 5 variações de títulos                                                        |
+| conteúdo | Imagine que você é a Jenny Han escrevendo uma parábola de "Para todos os garotos que já amei". 
+Faça um texto para ebook, com foco em pessoas superendividadas, descrevendo uma jornada de amadurecimento em relação ao relacionamento com cartões de crédito que a levaram ao superendividamento, fale sobre as principais razões que a levaram a ter amado cada cartão de crédito e como conseguiram superar uso sem controle dos mesmos 
 
+{REGRAS} 
+>Explique sempre de uma maneira simples 
+>Sempre traga exemplos em contextos reais e fluindo com o texto
+>sempre deixe um título sugestivo por tópico |
 
 Midjourney：
 
 |  Ação  | prompt                                                                                 |
 | :----: | -------------------------------------------------------------------------------------- |
-| título | A jedi in meditation pose, with your blue lightsaber floating, pixel art style --v 5.1 |
+|  Imagem de capa  | Hyperrealistic image: Woman in her 30s, dark hair, casually dressed, perhaps in a soft sweater and jeans, sits on her bed bathed in sunlight. Notebook and pen in hand, she's lost in thought. Credit cards scatter nearby. Wall displays concert photos and travel souvenirs. Generous left margin for title placement|
+|  Imagem do capítulo 1  | A magical realism-style photograph of a young woman with dark medium-length hair, dressed casually in a soft blue shirt, holding her first credit card. The card emits a glowing blue light with faint orange accents, highlighting the moment. The background is bright and minimalist, with a clean white wall and a soft gradient, adding subtle depth. Delicate sparkles and trails of blue light swirl gently around her hands, enhancing the magical feeling without overwhelming the scene. The image is proportioned for an A3 page|
+|  Imagem do capítulo 2  | A magical realism-style photograph of a woman, with delicate features, fair skin, and long dark hair, holding a glowing credit card with a soft blue light, complemented by subtle orange highlights. She looks Very excited. The background is clean and predominantly white, with a faint gradient. Floating cashback icons, reward symbols, and shopping bags in muted blue tones with small touches of orange hover delicately around the person. The overall atmosphere is ethereal and balanced. The image is proportioned for an A3 page|
+|  Imagem do capítulo 3  | A magical realism-style photograph of a woman, around 25 years old, sitting at a desk covered with overdue credit card bills. She wears a wrinkled shirt, with her head resting on one hand in a gesture of worry. Behind her, a terrifying demon-like figure looms, shrouded in dark smoke, with glowing eyes and skeletal hands reaching toward her. The credit card on the desk glows faintly in blue, with small orange highlights. The background is bright but slightly shadowed near the demon, and the bottom-right quadrant is completely blank and white, ensuring an open and clean area. The image is proportioned for an A3 page|
+|  Imagem do capítulo 4  | A woman, around 28 years old, with delicate features, fair skin, and long dark hair, organizing her finances at a bright, minimalist desk. She wears a clean, light blue blouse and looks focused and determined. On the desk, a glowing piggy bank, a calculator, and a notebook in soft blue tones with subtle orange accents symbolize her financial planning. The top-left quadrant is completely blank and white, creating a clear and uncluttered area. The scene is serene and uplifting. The image is proportioned for an A3 page|
+|  Imagem do capítulo 5  | A vibrant magical realism-style photograph of a confident woman with long, dark hair, dressed casually in light blue and white, triumphantly striding over a mountain of broken credit cards glowing softly in blue with faint orange edges. The background is bright and minimalist, featuring a rising sun in soft pastel tones and a lush green tree with subtle blue highlights, symbolizing growth and renewal. Her expression is serene and empowered, with the overall scene evoking a sense of triumph and fresh beginnings. The image is proportioned for an A3 page|
+|  Imagem do agradecimento  | A serene and minimalist image representing gratitude. A smiling woman, now around 35 years old, stands under a clear sky with soft shades of blue and touches of orange from the sunset. She has her arms open in a gesture of gratitude and freedom, while golden and blue leaves gently float around her, symbolizing overcoming challenges and growth. The background is clean and bright, with a blank section at the bottom or side for additional text or messages. The scene conveys calm, gratitude, and a fresh start|
 
 ## ✨ Features
 
