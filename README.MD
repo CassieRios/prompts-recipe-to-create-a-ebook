@@ -58,7 +58,7 @@ Midjourney：
 ## ✨ Features
 
 - Conteúdo gerado via ChatGPT
-- Imagens geradas via MidJourney
+- Imagens geradas via MidJourney com prompts aprimorados e traduzidos para inglês pelo ChatGPT
 
 ## 📚 Materiais
 
