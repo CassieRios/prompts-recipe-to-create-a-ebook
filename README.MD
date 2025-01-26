@@ -8,7 +8,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido para o bootcamp CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://www.dio.me/bootcamp/coding-the-future-ia-generativa-microsoft-copilot) pelo instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode/)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido pelo instrutor [Felipe Aguiar](https://github.com/felipeAguiarCode/) para o bootcamp CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://www.dio.me/bootcamp/coding-the-future-ia-generativa-microsoft-copilot) 
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. Todos os prompts
 seguem abaixo.
@@ -58,7 +58,3 @@ Midjourney：
 Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e utilize uma ferramenta de edição de documentos como power point, libreoffice , indesign para diagramação.
 
 <p>
-
----
-
-⌨️ com 💜 por [Cassandra Rios](https://github.com/CassieRios)
