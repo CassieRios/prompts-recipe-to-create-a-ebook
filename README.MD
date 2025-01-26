@@ -81,8 +81,8 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
     <p>&nbsp&nbsp&nbspCassandra Rios<br>
     &nbsp&nbsp&nbsp
     <a href="https://github.com/CassieRios">
-    GitHub</a>&nbsp;|&nbsp;
-&nbsp;|&nbsp;</p>
+    GitHub</a>
+    </p>
 </p>
 <br/><br/>
 <p>
