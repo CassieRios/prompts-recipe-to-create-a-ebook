@@ -76,7 +76,7 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
       align=left 
       margin=10 
       width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
+      src="https://avatars.githubusercontent.com/u/186922131?u=ec82ae8f56448ee04094c96b8bc7034a4fe26562&v=4"
     />
     <p>&nbsp&nbsp&nbspCassandra Rios<br>
     &nbsp&nbsp&nbsp
