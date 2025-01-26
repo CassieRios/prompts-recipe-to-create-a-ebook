@@ -89,4 +89,4 @@ Utilize os prompts acima nas ferramentas sugeridas para gerar o material base e 
 
 ---
 
-⌨️ com 💜 por Cassandra Rios](https://github.com/CassieRios)
+⌨️ com 💜 por [Cassandra Rios](https://github.com/CassieRios)
