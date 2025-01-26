@@ -20,7 +20,7 @@
 # Projeto EBOOK Gerado por I.A.s
 
 
- > ℹ️ **NOTE:** Este é o repositório desenvolvido para o bootcamp CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://dio.me)
+ > ℹ️ **NOTE:** Este é o repositório desenvolvido para o bootcamp CAIXA - IA Generativa com Microsoft Copilot da [DIO](https://www.dio.me/bootcamp/coding-the-future-ia-generativa-microsoft-copilot)
 
 Projeto com o objetivo de gerar um ebook digital com as facilidades das ferramentas de IA. todos os prompts
 seguem abaixo.
